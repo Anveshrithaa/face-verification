@@ -1,0 +1,7 @@
+-----Installation------
+
+1. Install CMake - Download installer from https://cmake.org/download/ and add it to path
+2. pip install dlib
+3. pip install face_recognition
+4. pip install xlsxwriter 
+
